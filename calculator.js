@@ -1,3 +1,13 @@
+let display = document.getElementById('display'){
+    
+}
+
+
+
+
+
+
+
 
 
 
@@ -21,10 +31,7 @@
         } else if (operator=="divide"){
             divide (x,y)
         }  
-     
-    }
-
-
+     }
 
     function add (x,y) {
         console.log(+x + +y)
