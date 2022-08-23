@@ -1,18 +1,18 @@
 .calculator{
     max-width: 150px;
-    align-content: center;
-    height:150px;
+    max-height: 120px;
     display: inline;
-    
+    margin:auto;
 
 }
 
 .display {
     text-align: right;
-    width:130px;
+    width:50px;
     height: 10px;
     padding: 16px 8px;
     border: solid 3px black;
+    
 
 }
 
@@ -21,10 +21,10 @@
     padding: 7px;
     width: 30px;
     height:20px;
-    text-align: center;
+    border: 1px solid black;
     margin:3px;
-    border: none;
     background-color: #547aa5; 
     border-radius: 5px;
 
 }
+
